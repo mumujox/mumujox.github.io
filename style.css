@@ -21,11 +21,11 @@ h1,h2{
 	font-weight:100;color:#FFF;
 }
 h2{
-	font-size:15px;color:#FFF;
+	font-size:15px;
 }
 .social-links{margin-top:50px;color:#FFF;}
 a{
-	color:#333;
+	color:#FFF;
 	text-decoration:none;
 }
 a:hover{text-decoration:underline}

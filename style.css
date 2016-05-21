@@ -1,7 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,300italic,400italic,500,600,600italic,700,700italic,500italic);
+
 body{
 	background-image:url(mumujox.jpg);
 	background-size:cover;
 	font-family:Raleway,Open Sans,Droid Sans,arial,sans-serif;
+	color:#FFF;
 }
 .bio{
 	width:600px;
@@ -12,15 +15,15 @@ body{
 	right:0;
 	bottom:0;
 	margin:auto;
-	text-align:center;
+	text-align:center;color:#FFF;
 }
 h1,h2{
-	font-weight:100;
+	font-weight:100;color:#FFF;
 }
 h2{
-	font-size:15px;
+	font-size:15px;color:#FFF;
 }
-.social-links{margin-top:50px;}
+.social-links{margin-top:50px;color:#FFF;}
 a{
 	color:#333;
 	text-decoration:none;
